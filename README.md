@@ -23,7 +23,9 @@ _Tech Stack:_ React, Node JS, AWS Amplify, Python, SQLite3
 ## Skills and Expertise
 **Programming Languages:** Python (Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, PySpark), R (RStudio), SQL, SAS
 
+<!---
 **Data Science & Statistics/Machine Learning Models:** Linear/Logistic Regression, Natural Language Processing(NLTK, SpaCy, Gensim, Vader), Ensemble (Bagging Boosting), Feature Engineering, SVM, Naive-Bayes, KNN, K-means, GBDT, Neural Networks & CNNs (TensorFlow, Keras), Clustering, Time Series (ARIMA), Collaborative Filtering
+--->
 
 **Machine Learning:** Supervised Learning (Linear Models, Tree-based Models, Naive Bayes, Support Vector Machines), Unsupervised Learning (K-means clustering, PCA, KNN, Hierarchal clustering, Anomaly detection,Principle Component Analysis, Independent Component Analysis, Apriori algorithm)
 
