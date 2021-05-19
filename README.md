@@ -27,9 +27,15 @@ _Tech Stack:_ React, Node JS, AWS Amplify, Python, SQLite3
 **Data Science & Statistics/Machine Learning Models:** Linear/Logistic Regression, Natural Language Processing(NLTK, SpaCy, Gensim, Vader), Ensemble (Bagging Boosting), Feature Engineering, SVM, Naive-Bayes, KNN, K-means, GBDT, Neural Networks & CNNs (TensorFlow, Keras), Clustering, Time Series (ARIMA), Collaborative Filtering
 --->
 
-**Machine Learning:** Supervised Learning (Linear Models, Tree-based Models, Naive Bayes, Support Vector Machines), Unsupervised Learning (K-means clustering, PCA, KNN, Hierarchal clustering, Anomaly detection,Principle Component Analysis, Independent Component Analysis, Apriori algorithm)
+**Programming Languages:** Python (Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, PySpark), R (RStudio), SQL, SAS, Big Query, Hadoop (Pig. Hive, Sqoop, MapReduce, Apache Spark)
 
-**Deep Learning:** Neural Nets & CNNs (TensorFlow, Keras), Natural Language Processing (NLTK, SpaCy, Gensim, Vader), Computer Vision (YOLO, OpenCV, Face Recognition, TensorFlow), Reinforcement Learning (Open AI Gym), GANs 
+**Data Science & Statistics/Machine Learning & Deep Learning Models:** Linear/Logistic Regression, Natural Language Processing(NLTK, SpaCy, Gensim, Vader), Ensemble (Bagging Boosting), Feature Engineering, SVM, Naive-Bayes, KNN, K-means, GBDT, Neural Networks & CNNs (TensorFlow, Keras), PCA, Clustering, Time Series (ARIMA), Computer Vision (YOLO, OpenCV, Face Recognition, TensorFlow), Reinforcement Learning (Open AI Gym)
 
-**Cloud:** GCP 
+**Database/Visualization/ETL:** Microsoft SQL Server, MYSQL, Oracle, PostgreSQL, Snowflake; Power BI, Tableau; SSIS
+
+**Cloud:** AWS, GCP 
+
+**Other Data-Analytic Tools/Skills:** Advanced Excel (Macros, Pivot Tables, VLOOKUP), Google Analytics, JMP, SPSS; Data Cleansing/Wrangling/ Segmentation/Mining/Visualization, Business Intelligence
+
+**Software/Project Management:** Jira, Microsoft Project
 
