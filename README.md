@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm [Shayla (Yixuan)](www.linkedin.com/in/yixuanlu17) 👋 🤟
-I am an aspiring data analyst, and I believe that data tells us more than just numbers, it helps us understand our users and their desires. I want to pursue data science because I want the business to use data to maximize their value.
+I love working in data science, and I believe that data tells us more than just numbers, it helps us understand our users and their desires. I want to pursue data science because I want the business to use data to maximize their value.
 
 I am passionate about data! I pride myself on my strong analytical skills and my ability to resolve potentially difficult situations. With 2 years of work experience and strong academy background, I have a strong insight into data. I am skilled in Python/R, proficient at writing statements with SQL,  designing A/B test and visualizing data with Tableau, power BI.
 
